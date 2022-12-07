@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedrakk&label=Profile%20views&color=0e75b6&style=flat" alt="kedrakk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kedrakk" alt="kedrakk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kedrakk&theme=onedark" alt="kedrakk" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development with Kotlin**
 
