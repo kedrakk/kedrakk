@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khin Eaindra Kyaw</h1>
-<h3 align="center">A passionate mobile developer from Myanmar</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedrakk&label=Profile%20views&color=0e75b6&style=flat" alt="kedrakk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kedrakk&theme=onedark" alt="kedrakk" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development with Kotlin**
+- 🌱 I’m currently learning **Data Structures & Algorithms in Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
