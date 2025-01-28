@@ -10,7 +10,8 @@ Hi there! I’m **KHIN**, an **experienced mobile and web developer** with over 
 ✨ Skilled in crafting **mobile-first designs** and scalable web solutions.  
 ✨ A dedicated problem-solver who’s always up for a challenge.  
 ✨ I love learning new tools, mentoring others, and staying ahead of the curve!  
-✨ I am currently learning **Data Structures & Algorithms in Java**.
+✨ I am currently learning **Data Structures & Algorithms in Java**. 
+
 ---
 
 ## 💻 **Technical Skills**  
