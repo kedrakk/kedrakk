@@ -56,7 +56,11 @@ Hi there! I’m **KHIN**, an **experienced mobile and web developer** with over 
 ### ☁️ **Cloud & Databases**  
 - **Cloud Services**:  
   ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white)  
-  ![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-FF9900?style=flat&logo=amazonaws&logoColor=white)  
+  ![AWS Lightsail](https://img.shields.io/badge/AWS-Lightsail-orange?logo=amazonaws&logoColor=white)  
+  ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-blue?logo=awslambda&logoColor=white)  
+  ![AWS EC2](https://img.shields.io/badge/AWS-EC2-yellow?logo=amazonaws&logoColor=white)
+
+
 
 - **Databases**:  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
